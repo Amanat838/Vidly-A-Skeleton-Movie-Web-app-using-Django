@@ -1,0 +1,2 @@
+# Vidly A Skeleton Movie Web app using Django
+ Vidly is a skeleton web app for streaming and downloading movies.To view the functionality of the app, go ahead and create a new super user in the project, there you can experience admin functionalities.Every thing related backend including database is handled apart from fetching the movies from any specific API.I encourage you to do that on your own.
